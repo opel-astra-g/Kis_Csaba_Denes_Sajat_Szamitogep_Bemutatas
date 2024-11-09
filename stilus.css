@@ -1,0 +1,14 @@
+a	{
+	text-decoration:none;
+	text-transform:uppercase;
+}
+ul li	{
+	font-size:14pt;
+	list-style-image: url('kepek/lista_kep.png');
+}
+h3 {
+	font-size:16pt;
+}
+h1 {
+	text-align:center;
+}
